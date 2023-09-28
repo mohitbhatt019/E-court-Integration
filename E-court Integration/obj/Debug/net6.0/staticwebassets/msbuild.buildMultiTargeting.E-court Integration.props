@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\E-court Integration.props" />
+</Project>

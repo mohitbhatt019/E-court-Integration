@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dXIGpYFMrvVSqTVZUH9YEjK6dagOGxcYZZbORKkQ2l6MzSL3Wjaf7JqGNiARa8FTWzszSAKVmZ0h64ygBsldlg==",
+  "success": true,
+  "projectFilePath": "D:\\E-court Integration\\E-court Integration\\E-court Integration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DOTNET\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\DOTNET\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DOTNET\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\DOTNET\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\DOTNET\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\DOTNET\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

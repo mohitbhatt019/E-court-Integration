@@ -1,0 +1,32 @@
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.csproj.AssemblyReference.cache
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.AssemblyInfoInputs.cache
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.AssemblyInfo.cs
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.csproj.CoreCompileInputs.cache
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.MvcApplicationPartsAssemblyInfo.cs
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.MvcApplicationPartsAssemblyInfo.cache
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\appsettings.Development.json
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\appsettings.json
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\E-court Integration.exe
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\E-court Integration.deps.json
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\E-court Integration.runtimeconfig.json
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\E-court Integration.dll
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\E-court Integration.pdb
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\E-court Integration\E-court Integration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\staticwebassets\msbuild.E-court Integration.Microsoft.AspNetCore.StaticWebAssets.props
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\staticwebassets\msbuild.build.E-court Integration.props
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.E-court Integration.props
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.E-court Integration.props
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\staticwebassets.pack.json
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\staticwebassets.build.json
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\staticwebassets.development.json
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\scopedcss\bundle\E-court Integration.styles.css
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.csproj.CopyComplete
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.dll
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\refint\E-court Integration.dll
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.pdb
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\E-court Integration.genruntimeconfig.cache
+D:\E-court Integration\E-court Integration\obj\Debug\net6.0\ref\E-court Integration.dll
